@@ -1,8 +1,11 @@
 {
   "name": "angular-decimal-precision",
-  "version": "1.0.5",
+  "version": "1.0.6",
   "description": "Angularjs Wrapper for Decimal.js",
   "main": "dist/angular-decimal-precision.js",
+  "directories": {
+    "src": "src"
+  },
   "scripts": {
     "init": "npm install",
     "install": "bower install"
@@ -24,6 +27,7 @@
     "gulp-uglify": "^3.0.2",
     "pump": "^3.0.0"
   },
+  "dependencies": {},
   "repository": {
     "type": "git",
     "url": "git@github.com:dashawk/angular-decimal-precision.git"

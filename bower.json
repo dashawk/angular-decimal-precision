@@ -1,33 +1,29 @@
 {
   "name": "angular-decimal-precision",
-  "version": "1.0.5",
+  "version": "1.0.6",
+  "description": "Angularjs Wrapper for Decimal.js",
   "main": "dist/angular-decimal-precision.js",
   "authors": [
-    "Jason <jmpanugaling@gmail.com>"
-  ],
-  "repository": {
-    "type": "git",
-    "url": "git@github.com:dashawk/angular-decimal-precision.git"
-  },
-  "description": "Angularjs Wrapper for Decimal.js",
-  "keywords": [
-    "angular",
-    "angular.js",
-    "decimal",
-    "decimal.js"
+    "Jason"
   ],
   "license": "MIT",
-  "private": true,
+  "keywords": [
+    "decimal-precision",
+    "text-image",
+    "convert-decimal-precision"
+  ],
+  "homepage": "https://github.com/dashawk/angular-decimal-precision",
   "ignore": [
     "**/.*",
     "node_modules",
     "bower_components",
+    "src",
     "test",
     "tests",
-    "src",
-    "Gulpfile.js",
-    "package.json",
-    "package-lock.json"
+    "README.md",
+    ".travis.yml",
+    ".gitignore",
+    "Gulpfile.js"
   ],
   "dependencies": {
     "angular": "1.x",
