@@ -11,4 +11,8 @@ Bower:
 
 ### Get Started
 
+Add the `jmp.decimal-precision` to your Angular module as dependency.
+
+`angular.module('app', ['jmp.decimal-precision']);`
+
 Please see the [API](http://mikemcl.github.io/decimal.js/) for reference.
