@@ -2,7 +2,7 @@
   "name": "angular-decimal-precision",
   "version": "1.0.0",
   "description": "",
-  "main": "angular-decimal-precision.js",
+  "main": "./dist/angular-decimal-precision.js",
   "scripts": {
     "init": "npm install",
     "install": "bower install"
