@@ -1,7 +1,7 @@
 {
   "name": "angular-decimal-precision",
-  "version": "1.0.3",
-  "main": "./dist/angular-decimal-precision.js",
+  "version": "1.0.4",
+  "main": "dist/angular-decimal-precision.js",
   "authors": [
     "Jason <jmpanugaling@gmail.com>"
   ],
@@ -17,12 +17,17 @@
     "decimal.js"
   ],
   "license": "MIT",
+  "private": true,
   "ignore": [
     "**/.*",
     "node_modules",
     "bower_components",
     "test",
-    "tests"
+    "tests",
+    "src",
+    "Gulpfile.js",
+    "package.json",
+    "package-lock.json"
   ],
   "dependencies": {
     "angular": "1.x",
