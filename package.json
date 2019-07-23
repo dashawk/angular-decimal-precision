@@ -1,6 +1,6 @@
 {
   "name": "angular-decimal-precision",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "Angularjs Wrapper for Decimal.js",
   "main": "./dist/angular-decimal-precision.js",
   "scripts": {

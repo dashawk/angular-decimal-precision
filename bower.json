@@ -1,6 +1,6 @@
 {
   "name": "angular-decimal-precision",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "main": "./dist/angular-decimal-precision.js",
   "authors": [
     "Jason <jmpanugaling@gmail.com>"
