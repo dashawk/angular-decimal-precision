@@ -1,6 +1,6 @@
 {
   "name": "angular-decimal-precision",
-  "version": "1.0.4",
+  "version": "1.0.5",
   "description": "Angularjs Wrapper for Decimal.js",
   "main": "dist/angular-decimal-precision.js",
   "scripts": {
@@ -26,7 +26,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/dashawk/angular-decimal-precision.git"
+    "url": "git@github.com:dashawk/angular-decimal-precision.git"
   },
   "bugs": {
     "url": "https://github.com/dashawk/angular-decimal-precision/issues"
