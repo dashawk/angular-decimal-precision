@@ -1,0 +1,35 @@
+{
+  "name": "angular-decimal-precision",
+  "version": "1.0.0",
+  "description": "",
+  "main": "angular-decimal-precision.js",
+  "scripts": {
+    "init": "npm install",
+    "install": "bower install"
+  },
+  "keywords": [
+    "angular",
+    "angular.js",
+    "decimal",
+    "decimal.js"
+  ],
+  "author": "Jason <jmpanugaling@gmail.com>",
+  "license": "MIT",
+  "devDependencies": {
+    "bower": "^1.8.8",
+    "gulp": "^3.9.1",
+    "gulp-load-plugins": "^2.0.0",
+    "gulp-ng-annotate": "^2.1.0",
+    "gulp-rename": "^1.4.0",
+    "gulp-uglify": "^3.0.2",
+    "pump": "^3.0.0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dashawk/angular-decimal-precision.git"
+  },
+  "bugs": {
+    "url": "https://github.com/dashawk/angular-decimal-precision/issues"
+  },
+  "homepage": "https://github.com/dashawk/angular-decimal-precision"
+}

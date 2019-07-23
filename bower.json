@@ -1,0 +1,31 @@
+{
+  "name": "angular-decimal-precision",
+  "version": "1.0.0",
+  "main": "angular-decimal-precision.js",
+  "authors": [
+    "Jason <jmpanugaling@gmail.com>"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:dashawk/angular-decimal-precision.git"
+  },
+  "description": "Angularjs Wrapper for Decimal.js",
+  "keywords": [
+    "angular",
+    "angular.js",
+    "decimal",
+    "decimal.js"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "angular": "1.x",
+    "decimal.js": "10.x"
+  }
+}
